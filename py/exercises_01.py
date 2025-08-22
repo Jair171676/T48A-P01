@@ -14,7 +14,7 @@ matricula=171676
 
 # 2. Crear una función que sume dos números
 def sumar(a, b):
-return(a+b)
+    return(a+b)
 # reemplaza pass con tu código
 
 
