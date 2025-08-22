@@ -23,7 +23,6 @@ def sumar(a, b):
 def bucle_for():
     for i in range (1,10):
         print(i)
-print(bucle_for())
     
 
 
