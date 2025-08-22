@@ -22,7 +22,7 @@ def sumar(a, b):
 # reemplaza la palabra reservada pass con tu código
 def bucle_for():
     for i in range (1,10):
-        display.scroll(i)
+        print(i)
 print(bucle_for())
     
 
