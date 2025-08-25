@@ -30,7 +30,7 @@ def bucle_for():
 def print_numbers():
     numbers = [1, 2, 3, 4, 5]
     i=0
-    while i<5:
+    while i<4:
         print(numbers[i])
         i=i+1
     # Escribe el código aquí
