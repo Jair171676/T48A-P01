@@ -31,7 +31,6 @@ def print_numbers():
     numbers = [1, 2, 3, 4, 5]
     i=0
     while i<4:
-        print(numbers[i])
+        print(numbers[i],'\n')
         i+=1
-        print("\n")
     # Escribe el código aquí
